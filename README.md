@@ -1,36 +1,79 @@
 <p align="center">
-  <img src="https://github.com/images/mona-whisper.gif" width="120"/>
+  <img src="https://github.com/images/mona-whisper.gif" width="120" alt="aes.co logo"/>
 </p>
 
 <h1 align="center">✨ aes.co ✨</h1>
 
 <p align="center">
-  Quiet automation, custom bots, and curious ideas.  
-  Built under the radar. Whispered into code.
+  <em>Quiet automation. Custom bots. Curious code.<br>
+  Whispered into the world, line by line.</em>
 </p>
 
 ---
 
-## 🔹 Who We Are
-A small & silent collective focused on open-source bots, automation tools, and code that thinks quietly.
+## 🪐 About aes.co
+
+**aes.co** is a tiny, quiet GitHub organization devoted to building automation, tools, and bot frameworks — all with a minimal voice and maximal intent.
+
+We code with curiosity, and we share with subtlety.
+
+> "Silence isn’t empty. It’s full of answers."
 
 ---
 
-## 🧰 Projects
+## 🚀 Projects
 
-- [`modcore`](https://github.com/aes-co/modcore) — Telegram modular bot framework 🤖
-- [`umodcore`](https://github.com/aes-co/umodcore) — Userbot version of ModCore 🧠
-- ...more coming soon 🌱
+| Project                                          | Description                                                                    |
+| ------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [`modcore`](https://github.com/aes-co/modcore)   | Telegram modular bot engine built for moderation, utility, and AI integration. |
+| [`umodcore`](https://github.com/aes-co/umodcore) | A userbot version of ModCore with extended capabilities for personal accounts. |
+| `more soon...`                                   | Maybe. Slowly. With intention. 🐢                                              |
 
 ---
 
-## 🧑‍🚀 People
+## 👾 Philosophy
 
-- Maintained by [@aeswnh](https://github.com/aeswnh)
-- [Telegram Contact](https://t.me/aesneverhere)
+* We believe in **low-noise** development.
+* We write for **ourselves first**, then share it with the world.
+* We value **clarity**, **curiosity**, and **kindness** in code.
+
+---
+
+## 🧠 Maintained By
+
+* [@aeswnh](https://github.com/aeswnh) — creator & main maintainer
+* Reach out: [@aeswnh on Telegram](https://t.me/aesneverhere)
+
+Want to contribute quietly? You know where to look.
+
+---
+
+## 🌌 More
+
+* 🌐 Website (soon): [aes.co](https://aes.co)
+* 🧪 Experimental playgrounds in progress
+* 🛠️ Custom utilities, link shorteners, and AI agents under construction
 
 ---
 
 <p align="center">
-  <sub><i>Curious minds in quiet places.</i></sub>
+<pre>
+   |\__/,|   (`\
+ _.|_ _  |.--.) )
+-.-"( T   )     /
+  (((^_(((/(((_/
+</pre>
+<i>We're not quiet because we have nothing to say. We're quiet because we're still building.</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aes-co&style=flat-square&color=blue" alt="Org Views"/>
+  <img src="https://img.shields.io/badge/automation-in%20progress-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/focused%20on-calm%20creations-9cf?style=flat-square"/>
+</p>
+
+<p align="center">
+  <sub><i>Silence is our default setting. Curiosity is our engine.</i></sub>
 </p>
