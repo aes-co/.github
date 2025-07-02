@@ -2,7 +2,7 @@
   <img src="https://github.com/images/mona-whisper.gif" width="120" alt="aes.co logo"/>
 </p>
 
-<h1 align="center">✨ aes.co ✨</h1>
+<h1 align="center">aes.co</h1>
 
 <p align="center">
   <em>Quiet automation. Custom bots. Curious code.<br>
@@ -23,11 +23,12 @@ We code with curiosity, and we share with subtlety.
 
 ## 🚀 Projects
 
-| Project                                          | Description                                                                    |
-| ------------------------------------------------ | ------------------------------------------------------------------------------ |
-| [`modcore`](https://github.com/aes-co/modcore)   | Telegram modular bot engine built for moderation, utility, and AI integration. |
-| [`umodcore`](https://github.com/aes-co/umodcore) | A userbot version of ModCore with extended capabilities for personal accounts. |
-| `more soon...`                                   | Maybe. Slowly. With intention. 🐢                                              |
+| Project                                            | Description                                                                    |
+| -------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [`modcore`](https://github.com/aes-co/modcore)     | Telegram modular bot engine built for moderation, utility, and AI integration. |
+| [`umodcore`](https://github.com/aes-co/umodcore)   | A userbot version of ModCore with extended capabilities for personal accounts. |
+| [`aetherbot`](https://github.com/aes-co/aetherbot) | An OSINT and investigation bot to gather public intelligence via Telegram.     |
+| `+1 coming soon...`                                | A tool, a whisper, a utility — maybe.                                          |
 
 ---
 
@@ -42,7 +43,7 @@ We code with curiosity, and we share with subtlety.
 ## 🧠 Maintained By
 
 * [@aeswnh](https://github.com/aeswnh) — creator & main maintainer
-* Reach out: [@aeswnh on Telegram](https://t.me/aesneverhere)
+  Contact: [@aesneverhere on Telegram](https://t.me/aesneverhere)
 
 Want to contribute quietly? You know where to look.
 
