@@ -23,12 +23,13 @@ We code with curiosity, and we share with subtlety.
 
 ## 🚀 Projects
 
-| Project                                            | Description                                                                    |
-| -------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [`modcore`](https://github.com/aes-co/modcore)     | Telegram modular bot engine built for moderation, utility, and AI integration. |
-| [`umodcore`](https://github.com/aes-co/umodcore)   | A userbot version of ModCore with extended capabilities for personal accounts. |
-| [`aetherbot`](https://github.com/aes-co/aetherbot) | An OSINT and investigation bot to gather public intelligence via Telegram.     |
-| `+1 coming soon...`                                | A tool, a whisper, a utility — maybe.                                          |
+| Project                                                  | Description                                                                        |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [`modcore`](https://github.com/aes-co/modcore)           | Telegram modular bot engine built for moderation, utility, and AI integration.     |
+| [`umodcore`](https://github.com/aes-co/umodcore)         | A userbot version of ModCore with extended capabilities for personal accounts.     |
+| [`aetherbot`](https://github.com/aes-co/aetherbot)       | An OSINT and investigation bot to gather public intelligence via Telegram.         |
+| [`MaestroBot`](https://github.com/aes-co/MaestroBot)     | Modular, hybrid Telegram music bot for voice chats with modern features & web app. |
+| `+ more, quietly brewing...`                             | A tool, a whisper, a utility — maybe.                                              |
 
 ---
 
@@ -42,7 +43,7 @@ We code with curiosity, and we share with subtlety.
 
 ## 🧠 Maintained By
 
-* [@aeswnh](https://github.com/aeswnh) — creator & main maintainer
+* [@aeswnh](https://github.com/aeswnh) — creator & main maintainer  
   Contact: [@aesneverhere on Telegram](https://t.me/aesneverhere)
 
 Want to contribute quietly? You know where to look.
