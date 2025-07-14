@@ -2,7 +2,7 @@
   <img src="https://github.com/images/mona-whisper.gif" width="120" alt="aes.co logo"/>
 </p>
 
-<h1 align="center">aes.co</h1>
+<h1 align="center">✨ aes.co</h1>
 
 <p align="center">
   <em>Quiet automation. Custom bots. Curious code.<br>
@@ -15,29 +15,28 @@
 
 **aes.co** is a tiny, quiet GitHub organization devoted to building automation, tools, and bot frameworks — all with a minimal voice and maximal intent.
 
-We code with curiosity, and we share with subtlety.
-
-> "Silence isn’t empty. It’s full of answers."
+- We code with curiosity, and we share with subtlety.
+- **Our motto:** "Silence isn’t empty. It’s full of answers."
 
 ---
 
-## 🚀 Projects
+## 🚀 Our Projects
 
 | Project                                                  | Description                                                                        |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [`modcore`](https://github.com/aes-co/modcore)           | Telegram modular bot engine built for moderation, utility, and AI integration.     |
+| [`modcore`](https://github.com/aes-co/modcore)           | A modular Telegram bot engine built for moderation, utility, and AI integration.     |
 | [`umodcore`](https://github.com/aes-co/umodcore)         | A userbot version of ModCore with extended capabilities for personal accounts.     |
-| [`aetherbot`](https://github.com/aes-co/aetherbot)       | An OSINT and investigation bot to gather public intelligence via Telegram.         |
-| [`MaestroBot`](https://github.com/aes-co/MaestroBot)     | Modular, hybrid Telegram music bot for voice chats with modern features & web app. |
+| [`Pinfairybot`](https://github.com/aes-co/Pinfairybot)   | A simple Telegram bot that helps you download images directly from Pinterest by just sending a link. Light, fast, and magical — like a little fairy delivering your favorite pins! ✨ |
+| [`crux`](https://github.com/aes-co/crux)                 | A Telegram bot designed to provide an interactive and fun experience with various exciting features. |
 | `+ more, quietly brewing...`                             | A tool, a whisper, a utility — maybe.                                              |
 
 ---
 
-## 👾 Philosophy
+## 👾 Our Philosophy
 
-* We believe in **low-noise** development.
-* We write for **ourselves first**, then share it with the world.
-* We value **clarity**, **curiosity**, and **kindness** in code.
+- We believe in **low-noise** development.
+- We write for **ourselves first**, then share it with the world.
+- We value **clarity**, **curiosity**, and **kindness** in code.
 
 ---
 
@@ -52,7 +51,7 @@ Want to contribute quietly? You know where to look.
 
 ## 🌌 More
 
-* 🌐 Website (soon): [aes.co](https://aes.co)
+* 🌐 Website (coming soon): [aes.co](https://aes.co)
 * 🧪 Experimental playgrounds in progress
 * 🛠️ Custom utilities, link shorteners, and AI agents under construction
 
@@ -60,10 +59,17 @@ Want to contribute quietly? You know where to look.
 
 <p align="center">
 <pre>
-   |\__/,|   (`\
- _.|_ _  |.--.) )
--.-"( T   )     /
-  (((^_(((/(((_/
+      /\     /\
+     {  `---'  }
+     {  O   O  }
+     ~~>  V  <~~
+      \ \|/ /
+       `-----'____
+       /     \    \_
+      {       }\  )_\
+      |  \_/  ) / /
+       \__/  /(_/ 
+         (__/
 </pre>
 <i>We're not quiet because we have nothing to say. We're quiet because we're still building.</i>
 </p>
